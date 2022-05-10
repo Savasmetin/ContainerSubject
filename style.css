@@ -1,0 +1,66 @@
+body{
+    background: #131313;
+    color: #525252;
+    font-family: verdana,Arial,Helvetica,sans-serif;
+
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+.sayfa{
+    width: 960px;
+    margin: auto;
+}
+.ust{
+   
+    background: #202761;
+    
+}
+
+
+.ust h1{
+    margin: 0;
+    padding: 0;
+    font-size: 42px;
+    text-transform: uppercase;
+    font-family: Georgia;
+    text-decoration: none;
+    color: #DBDBDB;
+    letter-spacing: 3px;
+    
+}
+
+
+
+
+
+.orta{
+    
+    margin-top: 20px;
+}
+.orta-sol{
+    width: 575px;
+    float: left;
+}
+.orta-sol-a{
+    color:#DBDBDB
+}
+.orta-sag{
+    width: 360px;
+    float: right;
+    height: 360px;
+    padding: 10px;
+   
+}
+
+.orta-sag img{
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 20px;
+}
+
+
+
+
+.clear{
+    clear: both;
+}
